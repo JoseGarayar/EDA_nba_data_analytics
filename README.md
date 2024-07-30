@@ -1,12 +1,16 @@
 # Proyecto 1 - Data analytics - NBA
 
+## Objetivo
+
+El objetivo de este proyecto es proporcionar un análisis detallado de los datos de juegos de la NBA y demostrar habilidades en el manejo de datos utilizando Python y sus librerías para análisis de datos y visualización.
+
 ## Instrucciones
 
 1. Crear un archivo .env_file en el directorio raiz (puedes ver que esta en el archivo gitignore para no compartir token de ingreso a jupyter notebook), el archivo debe contener:
 
 `JUPYTER_TOKEN=your_token`
 
-2. Crear una carpeta `/data` donde guardar los archivos json
+2. Crear una carpeta `/data` donde guardar los archivos csv
 
 3. Comando para construir imagen yelp-project
 
